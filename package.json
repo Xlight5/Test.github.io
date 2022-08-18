@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "hexo": "^6.2.0",
     "hexo-deployer-git": "^3.0.0"
+=======
+    "hexo": "^6.2.0"
+>>>>>>> 9e974c3348aa024cff408d2870fcc26d866ff281
   }
 }

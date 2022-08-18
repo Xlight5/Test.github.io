@@ -13,7 +13,11 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+<<<<<<< HEAD
 url: http://xlight5.github.io
+=======
+url: http://example.com
+>>>>>>> 9e974c3348aa024cff408d2870fcc26d866ff281
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,6 +107,10 @@ theme: butterful
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
+<<<<<<< HEAD
   type: git
   repository: git@github.com:Xlight5/xlight5.github.io.git # 用https或者ssh均可
   branch: master
+=======
+  type: ''
+>>>>>>> 9e974c3348aa024cff408d2870fcc26d866ff281
